@@ -26,5 +26,5 @@ end
 def square_root(num)
   sqft = num
   Math.sqrt(sqft)
-  puts sqft
+  puts Math.sqrt(value)
 end
